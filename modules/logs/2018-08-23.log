@@ -1,0 +1,13 @@
+[2018-08-23 00:09:18] [INFO]: UPDATE `orders` SET `status` = '3' WHERE `id` ='25'
+[2018-08-23 00:09:18] [SUCCESS]: UPDATE `players` SET `IsDonator` = '4' WHERE `id` ='3' - Product: Level 4 Donator
+[2018-08-23 00:09:18] [INFO]: 1
+[2018-08-23 00:44:56] [INFO]: UPDATE `orders` SET `status` = '6' WHERE `id` ='25'
+[2018-08-23 00:48:49] [INFO]: UPDATE `orders` SET `status` = '3' WHERE `id` ='32'
+[2018-08-23 00:48:49] [SUCCESS]: UPDATE `players` SET `IsDonator` = '4' WHERE `id` ='3' - Product: Level 4 Donator
+[2018-08-23 00:48:50] [INFO]: UPDATE `orders` SET `entrega` = '1', `dataentrega` = '2018-08-23 00:48:49' WHERE `id` ='32'
+[2018-08-23 00:53:35] [INFO]: UPDATE `orders` SET `status` = '6' WHERE `id` ='32'
+[2018-08-23 00:55:55] [INFO]: UPDATE `orders` SET `status` = '3' WHERE `id` ='33'
+[2018-08-23 00:55:55] [SUCCESS]: UPDATE `players` SET `IsDonator` = '4' WHERE `id` ='3' - Product: Level 4 Donator
+[2018-08-23 00:55:55] [INFO]: UPDATE `orders` SET `entrega` = '1', `dataentrega` = '2018-08-23 00:55:55' WHERE `id` ='33'
+[2018-08-23 01:08:58] [INFO]: UPDATE `orders` SET `status` = '6' WHERE `id` ='33'
+[2018-08-23 02:15:49] [INFO]: UPDATE `orders` SET `status` = '6' WHERE `id` ='22'
